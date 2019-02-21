@@ -1662,8 +1662,11 @@ fieldset[disabled] .form-control {
 }
 
 .expic {
-  border: 1px solid red; 
+  
   padding-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  
 }
 
 /*	PATTERN LIBRARY MEDIA QUERIES
